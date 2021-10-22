@@ -13,3 +13,5 @@ network settings for both, and have set up samba for file sharing between my hos
 charles120289/charles120289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[Lab 1 Ubuntu server.docx](https://github.com/charles120289/charles120289/files/7396353/Lab.1.Ubuntu.server.docx)
+[lab1 CentOS server.docx](https://github.com/charles120289/charles120289/files/7396354/lab1.CentOS.server.docx)
